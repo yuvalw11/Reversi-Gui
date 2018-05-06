@@ -1,0 +1,57 @@
+C:\Users\amir\source\repos\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\amir\source\repos\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\amir\source\repos\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\amir\source\repos\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\amir\source\repos\ImageService\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\amir\source\repos\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\amir\source\repos\ImageService\ImageService\obj\Debug\ImageService.ImageService.resources
+C:\Users\amir\source\repos\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\Users\amir\source\repos\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+\\Mac\Home\Desktop\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ImageService\ImageService\obj\Debug\ImageService.ImageService.resources
+\\Mac\Home\Desktop\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+\\Mac\Home\Desktop\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ImageService\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ImageService\ImageService\obj\Debug\ImageService.exe
+\\Mac\Home\Desktop\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\obj\Debug\ImageService.ImageService1.resources
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\yuvalw11\Desktop\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.ImageService1.resources
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\Eviatar\Documents\Visual Studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\obj\Debug\ImageService.ImageService1.resources
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\Eviatar\Desktop\service will it work\ImageService\ImageService\obj\Debug\ImageService.pdb
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\bin\Debug\ImageService.exe.config
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\bin\Debug\ImageService.exe
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\bin\Debug\ImageService.pdb
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\obj\Debug\ImageService.ImageService1.resources
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\obj\Debug\ImageService.ProjectInstaller.resources
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\obj\Debug\ImageService.csproj.GenerateResource.cache
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\obj\Debug\ImageService.csproj.CoreCompileInputs.cache
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\obj\Debug\ImageService.exe
+C:\Users\yuvalw11\Desktop\ImageService\Src\ImageService\ImageService\obj\Debug\ImageService.pdb

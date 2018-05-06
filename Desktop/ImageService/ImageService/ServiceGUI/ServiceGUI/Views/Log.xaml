@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="ServiceGUI.Views.Log"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" Height="508.699" Width="633.092"
+             d:DataContext="SeriveGUI.ViewModels.LogViewModel"
+             xmlns:ViewModels="clr-namespace:ServiceGUI.ViewModels">
+    <DataGrid Name="logDataGrid" ItemsSource="{Binding Source=LogsTable}" AutoGenerateColumns="False">
+        <DataGrid.Columns>
+            <DataGridTextColumn Header="Type" Binding="{Binding Type}">
+                <DataGridTextColumn.ElementStyle>
+                    <Style TargetType="{x:Type TextBlock}">
+                        <Setter Property="Background" Value="{Binding CellColor}"/>
+                    </Style>
+                </DataGridTextColumn.ElementStyle>
+            </DataGridTextColumn>
+                <DataGridTextColumn Header="Message" Binding="{Binding Message}"/>
+        </DataGrid.Columns>
+    </DataGrid>
+
+
+</UserControl>
+   
